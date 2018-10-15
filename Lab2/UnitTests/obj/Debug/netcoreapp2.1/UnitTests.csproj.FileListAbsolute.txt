@@ -1,0 +1,34 @@
+D:\Facultate\An 3\NET\UnitTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Facultate\An 3\NET\UnitTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Facultate\An 3\NET\UnitTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Facultate\An 3\NET\UnitTests\bin\Debug\netcoreapp2.1\UnitTests.deps.json
+D:\Facultate\An 3\NET\UnitTests\bin\Debug\netcoreapp2.1\UnitTests.runtimeconfig.json
+D:\Facultate\An 3\NET\UnitTests\bin\Debug\netcoreapp2.1\UnitTests.runtimeconfig.dev.json
+D:\Facultate\An 3\NET\UnitTests\bin\Debug\netcoreapp2.1\UnitTests.dll
+D:\Facultate\An 3\NET\UnitTests\bin\Debug\netcoreapp2.1\UnitTests.pdb
+D:\Facultate\An 3\NET\UnitTests\obj\Debug\netcoreapp2.1\UnitTests.csprojAssemblyReference.cache
+D:\Facultate\An 3\NET\UnitTests\obj\Debug\netcoreapp2.1\UnitTests.csproj.CoreCompileInputs.cache
+D:\Facultate\An 3\NET\UnitTests\obj\Debug\netcoreapp2.1\UnitTests.AssemblyInfoInputs.cache
+D:\Facultate\An 3\NET\UnitTests\obj\Debug\netcoreapp2.1\UnitTests.AssemblyInfo.cs
+D:\Facultate\An 3\NET\UnitTests\obj\Debug\netcoreapp2.1\UnitTests.dll
+D:\Facultate\An 3\NET\UnitTests\obj\Debug\netcoreapp2.1\UnitTests.pdb
+D:\Facultate\An 3\NET\UnitTests\bin\Debug\netcoreapp2.1\NET.dll
+D:\Facultate\An 3\NET\UnitTests\bin\Debug\netcoreapp2.1\NET.pdb
+D:\Facultate\An 3\NET\UnitTests\obj\Debug\netcoreapp2.1\UnitTests.csproj.CopyComplete
+C:\#Code\An_III\NET\git-repo\NET\Lab2\UnitTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\#Code\An_III\NET\git-repo\NET\Lab2\UnitTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\#Code\An_III\NET\git-repo\NET\Lab2\UnitTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\#Code\An_III\NET\git-repo\NET\Lab2\UnitTests\bin\Debug\netcoreapp2.1\UnitTests.deps.json
+C:\#Code\An_III\NET\git-repo\NET\Lab2\UnitTests\bin\Debug\netcoreapp2.1\UnitTests.runtimeconfig.json
+C:\#Code\An_III\NET\git-repo\NET\Lab2\UnitTests\bin\Debug\netcoreapp2.1\UnitTests.runtimeconfig.dev.json
+C:\#Code\An_III\NET\git-repo\NET\Lab2\UnitTests\bin\Debug\netcoreapp2.1\UnitTests.dll
+C:\#Code\An_III\NET\git-repo\NET\Lab2\UnitTests\bin\Debug\netcoreapp2.1\UnitTests.pdb
+C:\#Code\An_III\NET\git-repo\NET\Lab2\UnitTests\bin\Debug\netcoreapp2.1\NET.dll
+C:\#Code\An_III\NET\git-repo\NET\Lab2\UnitTests\bin\Debug\netcoreapp2.1\NET.pdb
+C:\#Code\An_III\NET\git-repo\NET\Lab2\UnitTests\obj\Debug\netcoreapp2.1\UnitTests.csprojAssemblyReference.cache
+C:\#Code\An_III\NET\git-repo\NET\Lab2\UnitTests\obj\Debug\netcoreapp2.1\UnitTests.csproj.CoreCompileInputs.cache
+C:\#Code\An_III\NET\git-repo\NET\Lab2\UnitTests\obj\Debug\netcoreapp2.1\UnitTests.AssemblyInfoInputs.cache
+C:\#Code\An_III\NET\git-repo\NET\Lab2\UnitTests\obj\Debug\netcoreapp2.1\UnitTests.AssemblyInfo.cs
+C:\#Code\An_III\NET\git-repo\NET\Lab2\UnitTests\obj\Debug\netcoreapp2.1\UnitTests.csproj.CopyComplete
+C:\#Code\An_III\NET\git-repo\NET\Lab2\UnitTests\obj\Debug\netcoreapp2.1\UnitTests.dll
+C:\#Code\An_III\NET\git-repo\NET\Lab2\UnitTests\obj\Debug\netcoreapp2.1\UnitTests.pdb

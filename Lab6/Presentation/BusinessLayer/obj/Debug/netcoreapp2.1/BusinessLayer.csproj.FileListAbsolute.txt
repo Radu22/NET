@@ -1,0 +1,12 @@
+X:\Facultate\An 3\dotNet\Laboratoare\Lab6\Presentation\BusinessLayer\bin\Debug\netcoreapp2.1\BusinessLayer.deps.json
+X:\Facultate\An 3\dotNet\Laboratoare\Lab6\Presentation\BusinessLayer\bin\Debug\netcoreapp2.1\BusinessLayer.dll
+X:\Facultate\An 3\dotNet\Laboratoare\Lab6\Presentation\BusinessLayer\bin\Debug\netcoreapp2.1\BusinessLayer.pdb
+X:\Facultate\An 3\dotNet\Laboratoare\Lab6\Presentation\BusinessLayer\bin\Debug\netcoreapp2.1\DataLayer.dll
+X:\Facultate\An 3\dotNet\Laboratoare\Lab6\Presentation\BusinessLayer\bin\Debug\netcoreapp2.1\DataLayer.pdb
+X:\Facultate\An 3\dotNet\Laboratoare\Lab6\Presentation\BusinessLayer\obj\Debug\netcoreapp2.1\BusinessLayer.csprojAssemblyReference.cache
+X:\Facultate\An 3\dotNet\Laboratoare\Lab6\Presentation\BusinessLayer\obj\Debug\netcoreapp2.1\BusinessLayer.csproj.CoreCompileInputs.cache
+X:\Facultate\An 3\dotNet\Laboratoare\Lab6\Presentation\BusinessLayer\obj\Debug\netcoreapp2.1\BusinessLayer.AssemblyInfoInputs.cache
+X:\Facultate\An 3\dotNet\Laboratoare\Lab6\Presentation\BusinessLayer\obj\Debug\netcoreapp2.1\BusinessLayer.AssemblyInfo.cs
+X:\Facultate\An 3\dotNet\Laboratoare\Lab6\Presentation\BusinessLayer\obj\Debug\netcoreapp2.1\BusinessLayer.csproj.CopyComplete
+X:\Facultate\An 3\dotNet\Laboratoare\Lab6\Presentation\BusinessLayer\obj\Debug\netcoreapp2.1\BusinessLayer.dll
+X:\Facultate\An 3\dotNet\Laboratoare\Lab6\Presentation\BusinessLayer\obj\Debug\netcoreapp2.1\BusinessLayer.pdb
